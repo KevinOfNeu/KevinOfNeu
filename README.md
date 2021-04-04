@@ -6,4 +6,9 @@
 + 🤔 I'm learning PLT.
 + 👨‍💻 I'm currently working at Ele.me.
 
+<img src="https://kevinofneu-blog-static.oss-cn-beijing.aliyuncs.com/gif/change_the_world.gif"/>
+
+
+
+
  [blog]: https://blog.0xff000000.com
